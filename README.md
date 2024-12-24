@@ -1,6 +1,8 @@
-# Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning (Code)
+# Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning
 
-This repository is the implementation of the paper [Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning].
+This repository is the implementation of the paper:
+
+[Noise-Resilient Symbolic Regression with Dynamic Gating Reinforcement Learning].
 
 And the Symbolic Regression training framework is based on the study of [Deep Symbolic Optimization].
 
